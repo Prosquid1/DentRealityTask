@@ -17,6 +17,6 @@ Currently my proposed solution is permutating routes and appending them to an ar
 
 
 # Alternative Researched APIs: 
-[TravelTime](https://traveltime.com/blog/distance-matrix-tutorial-calculate-times-to-multiple-locations),
+[TravelTime](https://traveltime.com/blog/distance-matrix-tutorial-calculate-times-to-multiple-locations)
 
 [Google Distance Matrix](https://developers.google.com/maps/documentation/distance-matrix/overview)

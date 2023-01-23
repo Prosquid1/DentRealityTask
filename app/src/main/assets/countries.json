@@ -1,0 +1,151 @@
+[
+  {
+    "timezones": [
+      "Europe/Rome"
+    ],
+    "latlng": [
+      42.83333333,
+      12.83333333
+    ],
+    "name": "Italy",
+    "country_code": "IT",
+    "capital": "Rome"
+  },
+  {
+    "timezones": [
+      "Europe/Zurich"
+    ],
+    "latlng": [
+      47,
+      8
+    ],
+    "name": "Switzerland",
+    "country_code": "CH",
+    "capital": "Bern"
+  },
+  {
+    "timezones": [
+      "Europe/London"
+    ],
+    "latlng": [
+      54,
+      -2
+    ],
+    "name": "United Kingdom",
+    "country_code": "GB",
+    "capital": "London"
+  },
+  {
+    "timezones": [
+      "Europe/Brussels"
+    ],
+    "latlng": [
+      50.83333333,
+      4
+    ],
+    "name": "Belgium",
+    "country_code": "BE",
+    "capital": "Brussels"
+  },
+  {
+    "timezones": [
+      "Europe/Copenhagen"
+    ],
+    "latlng": [
+      56,
+      10
+    ],
+    "name": "Denmark",
+    "country_code": "DK",
+    "capital": "Copenhagen"
+  },
+  {
+    "timezones": [
+      "Europe/Amsterdam"
+    ],
+    "latlng": [
+      52.5,
+      5.75
+    ],
+    "name": "Netherlands",
+    "country_code": "NL",
+    "capital": "Amsterdam"
+  },
+  {
+    "timezones": [
+      "Pacific/Niue"
+    ],
+    "latlng": [
+      -19.03333333,
+      -169.86666666
+    ],
+    "name": "Niue",
+    "country_code": "NU",
+    "capital": "Alofi"
+  },
+  {
+    "timezones": [
+      "Europe/Oslo"
+    ],
+    "latlng": [
+      62,
+      10
+    ],
+    "name": "Norway",
+    "country_code": "NO",
+    "capital": "Oslo"
+  },
+  {
+    "timezones": [
+      "Europe/Madrid",
+      "Africa/Ceuta",
+      "Atlantic/Canary"
+    ],
+    "latlng": [
+      40,
+      -4
+    ],
+    "name": "Spain",
+    "country_code": "ES",
+    "capital": "Madrid"
+  },
+  {
+    "timezones": [
+      "Europe/Paris"
+    ],
+    "latlng": [
+      46,
+      2
+    ],
+    "name": "France",
+    "country_code": "FR",
+    "capital": "Paris"
+  },
+  {
+    "timezones": [
+      "Europe/Lisbon",
+      "Atlantic/Madeira",
+      "Atlantic/Azores"
+    ],
+    "latlng": [
+      39.5,
+      -8
+    ],
+    "name": "Portugal",
+    "country_code": "PT",
+    "capital": "Lisbon"
+  },
+  {
+    "timezones": [
+      "Europe/Berlin",
+      "Europe/Busingen"
+    ],
+    "latlng": [
+      51,
+      9
+    ],
+    "name": "Germany",
+    "country_code": "DE",
+    "capital": "Berlin"
+  }
+]
